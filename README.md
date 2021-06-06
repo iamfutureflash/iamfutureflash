@@ -1,6 +1,6 @@
 ### Hi 👋
 ![GitHub metrics](https://metrics.lecoq.io/iamfutureflash)  
-<img src="https://source.unsplash.com/random" class="img-fluid" alt="LOADING...">
+<img src="https://source.unsplash.com/random" class="img-fluid col-md-4 col-10 col-xxl-4 mx-auto" alt="LOADING...">
 <!--
 **iamfutureflash/iamfutureflash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
