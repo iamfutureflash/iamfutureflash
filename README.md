@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi 👋  ![Profile views](https://gpvc.arturio.dev/iamfutureflash)
 ![GitHub metrics](https://metrics.lecoq.io/iamfutureflash)  
 <img src="https://source.unsplash.com/1600x900/?git,github" class="" alt="LOADING...">
 <!--
@@ -24,10 +24,15 @@ Here are some ideas to get you started:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iamfutureflash)  
 
-![Profile views](https://gpvc.arturio.dev/iamfutureflash)  
+  
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
+<!-- [website]: https://holistic-developer.com/ -->
+<!-- [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw -->
+[instagram]: https://www.instagram.com/iamfutureflash/
+[twitter]: https://twitter.com/i_amfutureflash
+[facebook]: https://www.facebook.com/guru.sing.9822/
+[linkedin]: https://www.linkedin.com/in/puneet-vaishnav-676201193/
 [portfolio]: https://github.com/iamfutureflash/iamfutureflash
+
+
+https://www.facebook.com/guru.sing.9822/
