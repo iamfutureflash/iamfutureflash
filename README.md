@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1>My Github Stats</h1>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamfutureflash&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamfutureflash)  
