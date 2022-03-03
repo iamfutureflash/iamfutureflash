@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br><hr><br>
+<br><hr>
 <h1>My Github Stats</h1>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamfutureflash&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamfutureflash)   
 
-<br><hr><br>
+<hr><br>
 <!-- [website]: https://holistic-developer.com/ -->
 <!-- [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw -->
 [instagram]: https://www.instagram.com/iamfutureflash/
