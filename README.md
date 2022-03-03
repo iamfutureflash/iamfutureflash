@@ -1,18 +1,18 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-https://github.com/iamfutureflash/iamfutureflash/blob/main/polar-programmer.gif
-
-<a href="#"><img alt="gif" src="https://github.com/iamfutureflash/iamfutureflash/blob/main/polar-programmer.gif" height="100px"/></a>
+<img width="90%" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<!-- <a href="#"><img alt="gif" src="https://github.com/iamfutureflash/iamfutureflash/blob/main/polar-programmer.gif" height="100px"/></a> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Puneet Vaishnav</h1>
+
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
   
  
-<p align="center">
+<div align="center" >
      
 ![GitHub metrics](https://metrics.lecoq.io/iamfutureflash)
 
-</p>
-    
+
+</div>    
 
 ## 🙋‍♂️ About Me
 
@@ -28,6 +28,8 @@ https://github.com/iamfutureflash/iamfutureflash/blob/main/polar-programmer.gif
 
 - ⚡ Fun fact **I love to play PC games and solve coding problems.**
 
+  
+  
 ## 🚀 Languages and Tools:
 
 <!--     
@@ -82,6 +84,11 @@ https://github.com/iamfutureflash/iamfutureflash/blob/main/polar-programmer.gif
 ## 📊 My Github Stats
 
   <br/>
+  
+  
+  
+  
+  
     <a href="https://github.com/iamfutureflash/github-readme-stats"><img alt="iamfutureflash Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamfutureflash&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/iamfutureflash/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfutureflash&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
