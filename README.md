@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 -->
 <br><hr><br>
 <h1>My Github Stats</h1>
-<br><hr><br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamfutureflash&show_icons=true)  
-<br><hr><br>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamfutureflash)   
+
 <br><hr><br>
 <!-- [website]: https://holistic-developer.com/ -->
 <!-- [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw -->
