@@ -2,9 +2,15 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Puneet Vaishnav</h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
-<p align="left">
+  
+ 
+<p align="center">
+     
 ![GitHub metrics](https://metrics.lecoq.io/iamfutureflash)
+
 </p>
+    
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Time Table Project](https://iamfutureflash.github.io/timetable.github.io/)**
