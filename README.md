@@ -15,23 +15,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br><hr><br>
 <h1>My Github Stats</h1>
+<br><hr><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamfutureflash&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamfutureflash)  
-
-
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iamfutureflash)  
-
-  
-
+<br><hr><br>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamfutureflash)   
+<br><hr><br>
 <!-- [website]: https://holistic-developer.com/ -->
 <!-- [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw -->
 [instagram]: https://www.instagram.com/iamfutureflash/
 [twitter]: https://twitter.com/i_amfutureflash
-[facebook]: https://www.facebook.com/guru.sing.9822/
+<!-- [facebook]: https://www.facebook.com/guru.sing.9822/ -->
 [linkedin]: https://www.linkedin.com/in/puneet-vaishnav-676201193/
 [portfolio]: https://github.com/iamfutureflash/iamfutureflash
 
