@@ -1,6 +1,6 @@
 ### Hi 👋  ![Profile views](https://gpvc.arturio.dev/iamfutureflash)
 ![GitHub metrics](https://metrics.lecoq.io/iamfutureflash)  
-<img src="https://source.unsplash.com/1600x900/?git,github" class="" alt="LOADING...">
+
 <!--
 **iamfutureflash/iamfutureflash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
