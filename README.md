@@ -1,22 +1,19 @@
-### Hi 👋  ![Profile views](https://gpvc.arturio.dev/iamfutureflash)
-![GitHub metrics](https://metrics.lecoq.io/iamfutureflash)  
-
-
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Puneet Vaishnav</h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
-
-
+<p align="left">
+![GitHub metrics](https://metrics.lecoq.io/iamfutureflash)
+</p>
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Time Table Project](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Time Table Project](https://iamfutureflash.github.io/timetable.github.io/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 Working on my Portfolio website
 
 - 📫 How to reach me **xenode2000@gmail.com**
 
@@ -81,6 +78,7 @@
 </p>
 
 ## ❤ Views and Followers
+![Profile views](https://gpvc.arturio.dev/iamfutureflash)
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=iamfutureflash">
 </a>
