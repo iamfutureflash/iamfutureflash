@@ -16,9 +16,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[IMPACTO](https://github.com/iamfutureflash/impacto/)**
+- 🔭 I’m currently working on **[MICROSOFT CLONE](https://iamfutureflash.github.io/m-c-r/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **REACTJS AND TAILWINDCSS.**
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
