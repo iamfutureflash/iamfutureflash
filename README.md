@@ -2,27 +2,29 @@
 <img width="90%" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 <!-- <a href="#"><img alt="gif" src="https://github.com/iamfutureflash/iamfutureflash/blob/main/polar-programmer.gif" height="100px"/></a> -->
 
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Puneet Vaishnav</h1>
 
-<h3 align="center">I'm a passionate Web Developer and Android Development from India.</h3>
-  
- 
+<!-- [My Resume](https://github.com/iamfutureflash/iamfutureflash/files/13366410/Puneet.s_Resume.pdf) -->
+<h3><a href='https://github.com/iamfutureflash/iamfutureflash/files/13366410/Puneet.s_Resume.pdf' target='_blank'>My Resume</a></h3>
+<h3 align="center">🌱 I am an experienced Reactjs developer with a keen interest in creating feature-rich applications</h3> 
+<h3 align="center">I'm a passionate Web Developer from India.</h3>
 <div align="center" >
      
 ![GitHub metrics](https://metrics.lecoq.io/iamfutureflash)
 
 
 </div>    
+<!-- ## 🙋‍♂️ About Me
+- 🌱 I am an experienced Reactjs developer with a keen interest in creating feature-rich applications
 
-## 🙋‍♂️ About Me
+<!-- - 🔭 I’m currently working on **[SPOTIFY CLONE](https://github.com/iamfutureflash/spotify-clone-app)** -->
 
-- 🔭 I’m currently working on **[SPOTIFY CLONE](https://github.com/iamfutureflash/spotify-clone-app)**
-
-- 🌱 I’m currently learning **REACTJS AND TAILWINDCSS.**
+<!-- - 🌱 I’m currently learning **REACTJS AND TAILWINDCSS.**-->
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
-- 👨‍💻 Started Learning Mongodb, NextJS and Redux ToolKit
+<!-- - 👨‍💻 Started Learning Mongodb, NextJS and Redux ToolKit -->
 
 - 📫 How to reach me **xenode2000@gmail.com**
 
