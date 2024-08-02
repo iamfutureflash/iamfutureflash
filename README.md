@@ -26,7 +26,7 @@
 
 <!-- - 👨‍💻 Started Learning Mongodb, NextJS and Redux ToolKit -->
 
-- 📫 How to reach me **xenode2000@gmail.com**
+- 📫 How to reach me **puneetvaishnav97@gmail.com**
 
 - ⚡ Fun fact **I love to play PC games and solve coding problems.**
 
