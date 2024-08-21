@@ -6,7 +6,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Puneet Vaishnav</h1>
 
 <!-- [My Resume](https://github.com/iamfutureflash/iamfutureflash/files/13366410/Puneet.s_Resume.pdf) -->
-<h3 align="center" color='white'><a href='https://github.com/iamfutureflash/iamfutureflash/files/13366410/Puneet.s_Resume.pdf' target='_blank'>My Resume</a></h3>
+<!-- <h3 align="center" color='white'><a href='https://github.com/iamfutureflash/iamfutureflash/files/13366410/Puneet.s_Resume.pdf' target='_blank'>My Resume</a></h3> -->
 <h3 align="center">🌱 I am an experienced Reactjs developer with a keen interest in creating feature-rich applications</h3> 
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
 <div align="center" >
@@ -26,6 +26,7 @@
 
 <!-- - 👨‍💻 Started Learning Mongodb, NextJS and Redux ToolKit -->
 
+- 📫 How to reach me **[Link](https://rxresu.me/puneetvaishnav97/puneet-resume)**
 - 📫 How to reach me **puneetvaishnav97@gmail.com**
 
 - ⚡ Fun fact **I love to play PC games and solve coding problems.**
