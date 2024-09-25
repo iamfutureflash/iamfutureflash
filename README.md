@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **puneetvaishnav97@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/puneetvaishnav97/puneet-resume](https://rxresu.me/puneetvaishnav97/puneet-resume)
+- 📄 Know about my experiences [https://rxresu.me/puneetvaishnav97/puneet-resume](https://docs.google.com/document/d/1Qey4VBPNWCLPtGPiy9S5TvLUXh25sjGXBRGVfcG_sNw/edit?usp=sharing)
 
 - ⚡ Fun fact **I love to play PC games and solve coding problems.**
 
